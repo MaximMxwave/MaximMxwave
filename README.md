@@ -82,13 +82,13 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## 💻 Практика и стажировка
 [<img src="/Auto ae.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Auto%20ae.png)
 
 
 <br>
 
-## 🎒 Образование
+## 🎓 Образование
 [<img src="/Diplom eng.png" width="280px" hspace="10px" alt="Диплом» анг">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Diplom%20eng.png)
 [<img src="/Diplom rus.png" width="280px" hspace="10px" alt="Диплом рус">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Diplom%20rus.png)
 
