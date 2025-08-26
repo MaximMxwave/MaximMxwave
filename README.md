@@ -2,6 +2,8 @@
 ![Header](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/gradient.gif)
 ![Header](https://github.com/MaximOlesov/MaximOlesov/blob/main/mario.gif)
 
+![Header](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/main/pacman.gif)
+
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark&locale=en&langs_count=8&card_width=320&username=MaximOlesov)
