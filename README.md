@@ -84,9 +84,9 @@
 <br>
 
 ## 💻 Практика и стажировка
-[<img src="/Auto ae.png" width="270px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Auto%20ae.png)
-[<img src="/Airlife API and Web.png" width="270px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Airlife%20API%20and%20Web.png)
-[<img src="/Kvadra API and Web.png" width="270px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Kvadra%20API%20and%20Web.png)
+[<img src="/Auto ae.png" width="250px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Auto%20ae.png)
+[<img src="/Airlife API and Web.png" width="250px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Airlife%20API%20and%20Web.png)
+[<img src="/Kvadra API and Web.png" width="250px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Kvadra%20API%20and%20Web.png)
 
 
 <br>
