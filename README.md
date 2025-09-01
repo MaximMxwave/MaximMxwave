@@ -95,6 +95,7 @@
 [<img src="/Diplom eng.png" width="280px" hspace="10px" alt="Диплом» анг">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Diplom%20eng.png)
 [<img src="/Diplom rus.png" width="280px" hspace="10px" alt="Диплом рус">](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/Diplom%20rus.png)
 
+
 <br>
 <br>
 
