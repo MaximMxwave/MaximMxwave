@@ -2,6 +2,17 @@
 ![Header](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/gradient.gif)
 ![Header](https://github.com/MaximOlesov/MaximOlesov/blob/main/mario.gif)
 
+</br>
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+
+![Snake animation](https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark&locale=en&langs_count=8&card_width=320&username=MaximMxwave)
