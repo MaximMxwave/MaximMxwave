@@ -18,8 +18,6 @@
 
 <img src="https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-</p>
-
 ## Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
