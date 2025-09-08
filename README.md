@@ -16,14 +16,7 @@
 
 <br>
 
-</br>
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-
-![Snake animation](https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </p>
 
