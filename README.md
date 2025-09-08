@@ -2,6 +2,8 @@
 ![Header](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/gradient.gif)
 ![Header](https://github.com/MaximOlesov/MaximOlesov/blob/main/mario.gif)
 
+<img src="https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark&locale=en&langs_count=8&card_width=320&username=MaximMxwave)
@@ -15,8 +17,6 @@
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
-
-<img src="https://github.com/BrowserNeo/BrowserNeo/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 ## Тестирование API и интеграций
 <div>
