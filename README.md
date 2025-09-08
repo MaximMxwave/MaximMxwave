@@ -10,7 +10,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=github-dark&username=MaximOlesov)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=github-dark&username=MaximMxwave)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
