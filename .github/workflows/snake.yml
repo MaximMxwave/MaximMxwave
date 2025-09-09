@@ -1,29 +1,27 @@
 name: Generate Snake
 
 on:
-  schedule: # запуск каждый день
-    - cron: "0 0 * * *"
-  workflow_dispatch: # запуск вручную
+  schedule:
+    - cron: "0 0 * * *"   # Запуск каждый день в 00:00 UTC
+  workflow_dispatch:       # Возможность запускать вручную
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1. Получаем репозиторий
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      # 2. Генерируем змейку, которая ест текст MAXIM
-      - name: Generate snake with text
+      - name: Generate snake (SVG only, no title)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MaximMxwave
           outputs: |
-            dist/snake-maxim.svg
-          snake_text: 'MAXIM'
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Публикуем в ветку output
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
