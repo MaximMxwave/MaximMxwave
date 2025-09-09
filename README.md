@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%91%8B+%D0%AF+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+QA+Engineer)](https://git.io/typing-svg)
 ![Header](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/gradient.gif)
-![Header](https://github.com/MaximOlesov/MaximOlesov/blob/main/mario.gif)
+[![Header](https://github.com/MaximOlesov/MaximOlesov/blob/main/mario.gif)](https://maximmxwave.github.io)
 
 <details><summary>🎵 Включить музыку</summary> <video controls src="https://github.com/user-attachments/assets/ec81ec03-bdf2-4f4c-aaa6-234212194794" width="240" height="40" preload="none" playsinline></video> </details>
 
