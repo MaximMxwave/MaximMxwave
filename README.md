@@ -2,15 +2,7 @@
 ![Header](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/gradient.gif)
 ![Header](https://github.com/MaximOlesov/MaximOlesov/blob/main/mario.gif)
 
-<div align="center" style="border: 2px solid #4cafef; border-radius: 12px; padding: 10px; margin: 15px 0;">
-  
-  <details>
-    <summary>🎶 <b>Саундтрек к профилю</b></summary>
-    <br>
-    <video controls src="https://github.com/user-attachments/assets/ec81ec03-bdf2-4f4c-aaa6-234212194794" width="260" height="45" preload="none" playsinline></video>
-  </details>
-
-</div>
+<details><summary>🎵 Включить музыку</summary> <video controls src="https://github.com/user-attachments/assets/ec81ec03-bdf2-4f4c-aaa6-234212194794" width="240" height="40" preload="none" playsinline></video> </details>
 
 ## 📊 Статистика
 
