@@ -2,16 +2,8 @@
 ![Header](https://raw.githubusercontent.com/MaximOlesov/MaximOlesov/refs/heads/main/gradient.gif)
 ![Header](https://github.com/MaximOlesov/MaximOlesov/blob/main/mario.gif)
 
-<details>
-  <summary>🎵 Включить музыку</summary>
-
-Слушай любимую музыку здесь:  
-
-- **GitHub файл:** [Нажми, чтобы открыть mp3](https://raw.githubusercontent.com/MaximMxwave/MaximMxwave/main/music.mp3)  
-- **YouTube:** [Нажми, чтобы открыть видео](https://www.youtube.com/)  
-- **Spotify:** [Нажми, чтобы открыть плейлист](https://open.spotify.com/)  
-
-🎶 Приятного прослушивания!
+<details><summary>🎵 Включить музыку</summary>
+<video src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/audio/Truepart2.mp3"><video>
 </details>
 
 ## 📊 Статистика
