@@ -3,7 +3,7 @@
 ![Header](https://github.com/MaximOlesov/MaximOlesov/blob/main/mario.gif)
 
 <details><summary>🎵 Включить музыку</summary>
-<video src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/audio/Truepart2.mp3"><video>
+<video src="https://github.com/MaximMxwave/MaximMxwave/blob/main/audio/Truepart2.mov"><video>
 </details>
 
 ## 📊 Статистика
