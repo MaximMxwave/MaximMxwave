@@ -41,7 +41,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/charles-proxy.png" title="Charles" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MaximMxwave/MaximMxwave/blob/main/charlesproxy.png?raw=true" title="Charles" alt="charlesproxy" width="40" height="40"/>&nbsp
 </div>
 
 ## Логи и мониторинги
