@@ -30,7 +30,7 @@
     <td> <img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_rest.png" /></td>
     <td> <img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_soap.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_swagger.png" /> </td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_apachekafka.png" /> </td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/kafka.png" /> </td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_docker.png" /> </td>
   </tr>
   <tr align="center">
@@ -77,7 +77,7 @@
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_selenium.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_pytest.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_gitlab.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_github.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/github.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_vscode.png" /></td>
   </tr>
   <tr align="center">
