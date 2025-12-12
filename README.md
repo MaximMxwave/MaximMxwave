@@ -5,7 +5,7 @@
 <details><summary>🎵 Включить музыку</summary> <video controls src="https://github.com/user-attachments/assets/ec81ec03-bdf2-4f4c-aaa6-234212194794" width="240" height="40" preload="none" playsinline></video> </details>
 
 ## 📊 Статистика
-
+[![Profile views](https://komarev.com/ghpvc/?username=MaximMxwave&label=Profile%20views&color=0061C6&style=flat)](https://github.com/MaximMxwave)
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark&locale=en&langs_count=8&card_width=320&username=MaximMxwave)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&theme=dark&username=MaximMxwave)
 
