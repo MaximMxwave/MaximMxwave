@@ -100,6 +100,7 @@
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_dbeaver.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_mongodb.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_metabase.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/redis.png" /></td>
   </tr>
   <tr align="center">
     <td>PostgreSQL</td>
@@ -107,6 +108,7 @@
     <td>DBeaver</td>
     <td>Mongo DB</td>
     <td>Metabase</td>
+    <td>Redis</td>
   </tr>
 </table>
 
@@ -132,6 +134,7 @@
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/jira.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/confluence.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_yandex_tracker.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_testit.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/Miro.png" /></td>
@@ -140,6 +143,7 @@
   </tr>
   <tr align="center">
     <td>Jira </br>
+    <td>Confluence </br>
     <td>Yandex </br>Tracker</td>
     <td>Test IT</td>
     <td>Miro</td>
