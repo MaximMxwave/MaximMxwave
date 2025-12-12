@@ -23,25 +23,6 @@
   </picture>
 </p>
 
-### Тестирование API и интеграций 
-<table class="table" border="0" width="100%">
-  <tr align="center">
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_postman.png" /> </td>
-    <td> <img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_rest.png" /></td>
-    <td> <img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_soap.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_swagger.png" /> </td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/kafka.png" /> </td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_docker.png" /> </td>
-  </tr>
-  <tr align="center">
-    <td>Postman</td>
-    <td>REST API</td>
-    <td>SOAP</td>
-    <td>Swagger</td>
-    <td>Kafka</td>
-    <td>Docker</td>
-  </tr>
-</table>
 
 ### Тестирование Web и Мобильных приложений
 <table class="table-primer"border="0" width="100%">
@@ -64,8 +45,54 @@
     <td>JavaScript</td>
     <td>PHP</td>
     <td>Firebase</td>
-    <td>Charles Proxy</td>
     <td>Android Studio</td>
+    <td>Charles Proxy</td>
+  </tr>
+</table>
+
+### Тестирование API и интеграций 
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_postman.png" /> </td>
+    <td> <img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_rest.png" /></td>
+    <td> <img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_soap.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_swagger.png" /> </td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/kafka.png" /> </td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_docker.png" /> </td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/apollo.png" /> </td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/kreya.png" /> </td>
+  </tr>
+  <tr align="center">
+    <td>Postman</td>
+    <td>REST API</td>
+    <td>SOAP</td>
+    <td>Swagger</td>
+    <td>Kafka</td>
+    <td>Docker</td>
+    <td>Apollo</td>
+    <td>Kreya</td>
+  </tr>
+</table>
+
+### Тестовая документация
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/jira.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/confluence.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_yandex_tracker.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_testit.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/Miro.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/notion.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_buildin.png" /></td>
+  </tr>
+  <tr align="center">
+    <td>Jira </br>
+    <td>Confluence </br>
+    <td>Yandex Tracker</td>
+    <td>Test IT</td>
+    <td>Miro</td>
+    <td>Notion</td>
+    <td>Buildin</td>
   </tr>
 </table>
 
@@ -127,28 +154,6 @@
     <td>Grafana</td>
     <td>Jaeger</td>
     <td>Bash</td>
-  </tr>
-</table>
-
-### Тестовая документация
-<table class="table" border="0" width="100%">
-  <tr align="center">
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/jira.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/confluence.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_yandex_tracker.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_testit.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/Miro.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/notion.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_buildin.png" /></td>
-  </tr>
-  <tr align="center">
-    <td>Jira </br>
-    <td>Confluence </br>
-    <td>Yandex </br>Tracker</td>
-    <td>Test IT</td>
-    <td>Miro</td>
-    <td>Notion</td>
-    <td>Buildin</td>
   </tr>
 </table>
 
