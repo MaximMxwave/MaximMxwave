@@ -82,7 +82,7 @@
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_yandex_tracker.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_testit.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/Miro.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/notion.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/notionlogo.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_buildin.png" /></td>
   </tr>
   <tr align="center">
