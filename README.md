@@ -6,6 +6,7 @@
 
 ## 📊 Статистика
 [![Profile views](https://komarev.com/ghpvc/?username=MaximMxwave&label=Profile%20views&color=0061C6&style=flat)](https://github.com/MaximMxwave)
+
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&theme=dark&locale=en&langs_count=8&card_width=320&username=MaximMxwave)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&theme=dark&username=MaximMxwave)
 
