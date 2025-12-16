@@ -35,8 +35,8 @@
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_javascript.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_php.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_firebase.png" /></td>
-    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_androidstudio.png" /></td>
     <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_charles.png" /></td>
+    <td><img width="48" src="https://github.com/MaximMxwave/MaximMxwave/blob/main/assets/logo_androidstudio.png" /></td>
   </tr>
   <tr align="center">
     <td>Figma</td>
@@ -46,8 +46,8 @@
     <td>JavaScript</td>
     <td>PHP</td>
     <td>Firebase</td>
+    <td>Charles</td>
     <td>Android Studio</td>
-    <td>Charles Proxy</td>
   </tr>
 </table>
 
